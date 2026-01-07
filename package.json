@@ -5,8 +5,7 @@
     "start": "next start",
     "lint": "next lint",
     "deploy": "next build && touch out/.nojekyll"
-  }
-}
+  },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
     "@radix-ui/react-accordion": "1.2.2",
