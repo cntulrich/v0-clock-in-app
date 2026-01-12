@@ -4,7 +4,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/v0-clock-in-app',
+  basePath: '/v0-clock-in-app', // Your repo name
   assetPrefix: '/v0-clock-in-app/',
 };
 
